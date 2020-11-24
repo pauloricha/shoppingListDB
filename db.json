@@ -1,0 +1,36 @@
+{
+  "shoppingList": [
+    {
+      "id": 0,
+      "name": "Minha lista 1",
+      "products": [
+        {
+          "category" = "Bebidas",
+          "name" = "Coca-cola",
+          "quantity" = 2
+        },
+        {
+          "category" = "Bebidas",
+          "name" = "Fanta Laranja",
+          "quantity" = 5
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Minha lista 2",
+      "products": [
+        {
+          "category" = "Bebidas",
+          "name" = "Guaraná",
+          "quantity" = 3
+        },
+        {
+          "category" = "Bebidas",
+          "name" = "Sprite",
+          "quantity" = 1
+        }
+      ]
+    }
+  ]
+}
